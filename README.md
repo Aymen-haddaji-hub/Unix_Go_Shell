@@ -49,13 +49,13 @@ This is a simple implementation of the Unix command line interpreter in Go.
 ### go get
 
 ```bash
-go get -u github.com/mattn/unix-command-line-interpreter
+go get -u github.com/Aymen-haddaji-hub/Unix_Go_Shell
 ```
 
 ### go install
 
 ```bash
-go install github.com/mattn/unix-command-line-interpreter
+go install github.com/Aymen-haddaji-hub/Unix_Go_Shell
 ```
 
 ## Usage
@@ -115,4 +115,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ## Bugs
 
 - please report any bugs to [@AymenHaddaji](aymensystem7@gmail.com)
-or create an issue on [Github]()
+or create an issue on [Github](https://github.com/Aymen-haddaji-hub/Unix_Go_Shell)
